@@ -1,2 +1,4 @@
 # Hack-a-thon
-About my internal at my clg
+For admin the Loggin Details are - 
+Username - arj
+password - 1234
